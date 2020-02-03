@@ -23,3 +23,8 @@ Existen 4 avatares, con sus movimientos especiales.
 # EL CÓDIGO
 
 Existe una clase para cada elemento físico: Jugador, Avatar, Casilla, Carta, Tablero... Además, hay otras para elementos más abstractos como "Juego", o de excepciones. Se ha empleado frecuentemente la herencia para estructurar las clases.
+
+# AUTORES
+
+Miguel Ventoso Fernández
+David Soler García
