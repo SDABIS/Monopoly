@@ -26,5 +26,5 @@ Existe una clase para cada elemento físico: Jugador, Avatar, Casilla, Carta, Ta
 
 # AUTORES
 
-Miguel Ventoso Fernández
-David Soler García
+* Miguel Ventoso Fernandez
+* [David Soler Garcia](https://github.com/SDABIS)
